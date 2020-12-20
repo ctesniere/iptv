@@ -1,0 +1,47 @@
+[
+  {
+    "group": "Sport",
+    "type": "remote",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/sport.m3u"
+  },
+  {
+    "group": "Italian",
+    "type": "remote",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/it.m3u"
+  },
+  {
+    "group": "Sport",
+    "type": "local",
+    "url": "./channels/hlscat.com-france-sport.m3u8"
+  },
+  {
+    "group": "Sport",
+    "type": "local",
+    "url": "./channels/hlscat.com-italy-sport.m3u8"
+  },
+  {
+    "group": "Italian",
+    "type": "local",
+    "url": "./channels/hlscat.com-italy-RAI1.m3u8"
+  },
+  {
+    "group": "Italian",
+    "type": "local",
+    "url": "./channels/hlscat.com-italy-RAI2.m3u8"
+  },
+  {
+    "group": "Italian",
+    "type": "local",
+    "url": "./channels/hlscat.com-italy-RAI3.m3u8"
+  },
+  {
+    "group": "Italian",
+    "type": "local",
+    "url": "./channels/hlscat.com-italy-RAI4.m3u8"
+  },
+  {
+    "group": "Italian",
+    "type": "local",
+    "url": "./channels/hlscat.com-italy-RAI5.m3u8"
+  }
+]
