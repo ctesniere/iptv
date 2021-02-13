@@ -1,32 +1,10 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",RAI 3 HD
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/23279?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",RAI 3 HD
-http://localhd.tv:8081/Beckham/Beckham123/2803?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",RAI 3 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/25320?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",RAI 3 SD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/27211?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",RAI 3
+http://mags.vip:2086/live/miriam/miriam123/94171.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/IIqn1oG.jpg" group-title="Undefined",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2253.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 FHD
-http://alghanem1.dyndns.tv:8000/majd/1234/27916?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 FHD
-http://iptvtree.net:8080/F11511/a814b516/1979?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 FHD IT
-http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/50992?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 Full HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/27083?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/27082?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 IT
-http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/50993?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3 UHD 4K IT [Only On 4K Devices]
-http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/56393?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3HD IT
-http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/50994?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3  IT
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/7921?checkedby:hlscat.com
